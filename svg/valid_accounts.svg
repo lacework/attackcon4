@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1536" height="1056" viewBox="0 0 1536 1056">
+<defs>
+</defs>
+<g transform="translate(9.984,0)">
+<g transform="translate(0,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="9.338142040816328" dy="0em" class="TacticName" style="text-anchor: middle">Reconnaissance</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1595"></rect>
+<text x="4" y="13.041197681864237" font-size="8.71559923809524" dy="0em" class="">Active Scanning</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1592"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Gather Victim</tspan><tspan x="4" dy="1em">Host Information</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1589"></rect>
+<text x="4" y="9.766407732522797" font-size="6.536699428571429" class=""><tspan x="4" dy="0em">Gather Victim</tspan><tspan x="4" dy="1em">Identity Information</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1590"></rect>
+<text x="4" y="9.594389326507759" font-size="6.880736240601504" class=""><tspan x="4" dy="0em">Gather Victim</tspan><tspan x="4" dy="1em">Network Information</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1591"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Gather Victim</tspan><tspan x="4" dy="1em">Org Information</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1598"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Phishing for</tspan><tspan x="4" dy="1em">Information</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1597"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Search Closed</tspan><tspan x="4" dy="1em">Sources</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1596"></rect>
+<text x="4" y="9.594389326507759" font-size="6.880736240601504" class=""><tspan x="4" dy="0em">Search Open</tspan><tspan x="4" dy="1em">Technical Databases</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1593"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Search Open</tspan><tspan x="4" dy="1em">Websites/Domains</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1594"></rect>
+<text x="4" y="9.594389326507759" font-size="6.880736240601504" class=""><tspan x="4" dy="0em">Search Victim-Owned</tspan><tspan x="4" dy="1em">Websites</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(109.14377142857144,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="8.68983829787234" dy="0em" class="TacticName" style="text-anchor: middle">Resource Development</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1650"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">Acquire Access</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1583"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Acquire</tspan><tspan x="4" dy="1em">Infrastructure</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1586"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Compromise</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1584"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Compromise</tspan><tspan x="4" dy="1em">Infrastructure</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1587"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Develop</tspan><tspan x="4" dy="1em">Capabilities</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1585"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Establish</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1588"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Obtain</tspan><tspan x="4" dy="1em">Capabilities</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1608"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Stage</tspan><tspan x="4" dy="1em">Capabilities</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(218.28754285714288,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="9.338142040816328" dy="0em" class="TacticName" style="text-anchor: middle">Initial Access</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1189"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Drive-by</tspan><tspan x="4" dy="1em">Compromise</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1190"></rect>
+<text x="4" y="9.922043433203068" font-size="6.225428027210886" class=""><tspan x="4" dy="0em">Exploit Public-Facing</tspan><tspan x="4" dy="1em">Application</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1133"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">External Remote</tspan><tspan x="4" dy="1em">Services</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1200"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Hardware</tspan><tspan x="4" dy="1em">Additions</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1566"></rect>
+<text x="4" y="13.862297872340426" font-size="12" dy="0em" class="">Phishing</text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1091"></rect>
+<text x="4" y="9.594389326507759" font-size="6.880736240601504" class=""><tspan x="4" dy="0em">Replication Through</tspan><tspan x="4" dy="1em">Removable Media</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1195"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Supply Chain</tspan><tspan x="4" dy="1em">Compromise</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1199"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Trusted</tspan><tspan x="4" dy="1em">Relationship</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="" fill="white">Valid Accounts</text>
+<g transform="translate(19.63227428571429,21.72459574468085)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.004"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Cloud</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,43.4491914893617)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.001"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Default</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,65.17378723404255)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.002"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Domain</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,86.8983829787234)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.003"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Local</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<path d="M6.135085714285715,21.72459574468085 L12.27017142857143,43.4491914893617 L12.27017142857143,108.62297872340426 L19.63227428571429,108.62297872340426 L19.63227428571429,21.72459574468085 Z" fill="#6B7279" stroke="#6B7279" />
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(327.43131428571434,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="14.525998730158731" dy="0em" class="TacticName" style="text-anchor: middle">Execution</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1651"></rect>
+<text x="4" y="9.766407732522797" font-size="6.536699428571429" class=""><tspan x="4" dy="0em">Cloud Administration</tspan><tspan x="4" dy="1em">Command</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1059"></rect>
+<text x="4" y="9.922043433203068" font-size="6.225428027210886" class=""><tspan x="4" dy="0em">Command and Scripting</tspan><tspan x="4" dy="1em">Interpreter</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1609"></rect>
+<text x="4" y="10.063530433821498" font-size="5.942454025974027" class=""><tspan x="4" dy="0em">Container</tspan><tspan x="4" dy="1em">Administration Command</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1610"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Deploy</tspan><tspan x="4" dy="1em">Container</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1203"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Exploitation for</tspan><tspan x="4" dy="1em">Client Execution</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1559"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Inter-Process</tspan><tspan x="4" dy="1em">Communication</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1106"></rect>
+<text x="4" y="13.862297872340426" font-size="12" dy="0em" class="">Native API</text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1053"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Scheduled</tspan><tspan x="4" dy="1em">Task/Job</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1648"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Serverless</tspan><tspan x="4" dy="1em">Execution</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1129"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">Shared Modules</text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1072"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Software</tspan><tspan x="4" dy="1em">Deployment Tools</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1569"></rect>
+<text x="4" y="13.041197681864237" font-size="8.71559923809524" dy="0em" class="">System Services</text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1204"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">User Execution</text>
+</g>
+<g transform="translate(0,282.419744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1047"></rect>
+<text x="4" y="9.403257764268828" font-size="7.262999365079366" class=""><tspan x="4" dy="0em">Windows Management</tspan><tspan x="4" dy="1em">Instrumentation</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(436.57508571428576,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="11.884908051948054" dy="0em" class="TacticName" style="text-anchor: middle">Persistence</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1098"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Account</tspan><tspan x="4" dy="1em">Manipulation</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1197"></rect>
+<text x="4" y="13.862297872340426" font-size="12" dy="0em" class="">BITS Jobs</text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1547"></rect>
+<text x="4" y="9.594389326507759" font-size="6.880736240601504" class=""><tspan x="4" dy="0em">Boot or Logon</tspan><tspan x="4" dy="1em">Autostart Execution</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1037"></rect>
+<text x="4" y="10.063530433821498" font-size="5.942454025974027" class=""><tspan x="4" dy="0em">Boot or Logon</tspan><tspan x="4" dy="1em">Initialization Scripts</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1176"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Browser</tspan><tspan x="4" dy="1em">Extensions</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1554"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">Compromise Client</tspan><tspan x="4" dy="1em">Software Binary</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1136"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">Create Account</text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1543"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Create or Modify</tspan><tspan x="4" dy="1em">System Process</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1546"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Event Triggered</tspan><tspan x="4" dy="1em">Execution</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1133"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">External Remote</tspan><tspan x="4" dy="1em">Services</tspan></text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1574"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Hijack</tspan><tspan x="4" dy="1em">Execution Flow</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1525"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Implant</tspan><tspan x="4" dy="1em">Internal Image</tspan></text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1556"></rect>
+<text x="4" y="9.922043433203068" font-size="6.225428027210886" class=""><tspan x="4" dy="0em">Modify Authentication</tspan><tspan x="4" dy="1em">Process</tspan></text>
+</g>
+<g transform="translate(0,282.419744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1137"></rect>
+<text x="4" y="9.403257764268828" font-size="7.262999365079366" class=""><tspan x="4" dy="0em">Office Application</tspan><tspan x="4" dy="1em">Startup</tspan></text>
+</g>
+<g transform="translate(0,304.1443404255319)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1542"></rect>
+<text x="4" y="13.833524885327439" font-size="11.884908051948054" dy="0em" class="">Pre-OS Boot</text>
+</g>
+<g transform="translate(0,325.86893617021275)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1053"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Scheduled</tspan><tspan x="4" dy="1em">Task/Job</tspan></text>
+</g>
+<g transform="translate(0,347.5935319148936)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1505"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Server Software</tspan><tspan x="4" dy="1em">Component</tspan></text>
+</g>
+<g transform="translate(0,369.3181276595745)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1205"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Traffic</tspan><tspan x="4" dy="1em">Signaling</tspan></text>
+</g>
+<g transform="translate(0,391.04272340425536)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="" fill="white">Valid Accounts</text>
+<g transform="translate(19.63227428571429,21.72459574468085)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.004"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Cloud</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,43.4491914893617)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.001"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Default</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,65.17378723404255)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.002"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Domain</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,86.8983829787234)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.003"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Local</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<path d="M6.135085714285715,21.72459574468085 L12.27017142857143,43.4491914893617 L12.27017142857143,108.62297872340426 L19.63227428571429,108.62297872340426 L19.63227428571429,21.72459574468085 Z" fill="#6B7279" stroke="#6B7279" />
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(545.7188571428572,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="8.68983829787234" dy="0em" class="TacticName" style="text-anchor: middle">Privilege Escalation</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1548"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">Abuse Elevation</tspan><tspan x="4" dy="1em">Control Mechanism</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1134"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Access Token</tspan><tspan x="4" dy="1em">Manipulation</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1547"></rect>
+<text x="4" y="9.594389326507759" font-size="6.880736240601504" class=""><tspan x="4" dy="0em">Boot or Logon</tspan><tspan x="4" dy="1em">Autostart Execution</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1037"></rect>
+<text x="4" y="10.063530433821498" font-size="5.942454025974027" class=""><tspan x="4" dy="0em">Boot or Logon</tspan><tspan x="4" dy="1em">Initialization Scripts</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1543"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Create or Modify</tspan><tspan x="4" dy="1em">System Process</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1484"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Domain Policy</tspan><tspan x="4" dy="1em">Modification</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1611"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">Escape to Host</text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1546"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Event Triggered</tspan><tspan x="4" dy="1em">Execution</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1068"></rect>
+<text x="4" y="9.766407732522797" font-size="6.536699428571429" class=""><tspan x="4" dy="0em">Exploitation for</tspan><tspan x="4" dy="1em">Privilege Escalation</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1574"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Hijack</tspan><tspan x="4" dy="1em">Execution Flow</tspan></text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1055"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Process</tspan><tspan x="4" dy="1em">Injection</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1053"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Scheduled</tspan><tspan x="4" dy="1em">Task/Job</tspan></text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="" fill="white">Valid Accounts</text>
+<g transform="translate(19.63227428571429,21.72459574468085)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.004"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Cloud</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,43.4491914893617)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.001"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Default</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,65.17378723404255)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.002"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Domain</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,86.8983829787234)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.003"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Local</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<path d="M6.135085714285715,21.72459574468085 L12.27017142857143,43.4491914893617 L12.27017142857143,108.62297872340426 L19.63227428571429,108.62297872340426 L19.63227428571429,21.72459574468085 Z" fill="#6B7279" stroke="#6B7279" />
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(654.8626285714287,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="8.71559923809524" dy="0em" class="TacticName" style="text-anchor: middle">Defense Evasion</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1548"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">Abuse Elevation</tspan><tspan x="4" dy="1em">Control Mechanism</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1134"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Access Token</tspan><tspan x="4" dy="1em">Manipulation</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1197"></rect>
+<text x="4" y="13.862297872340426" font-size="12" dy="0em" class="">BITS Jobs</text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1612"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Build Image on</tspan><tspan x="4" dy="1em">Host</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1622"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Debugger</tspan><tspan x="4" dy="1em">Evasion</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1140"></rect>
+<text x="4" y="9.766407732522797" font-size="6.536699428571429" class=""><tspan x="4" dy="0em">Deobfuscate/Decode</tspan><tspan x="4" dy="1em">Files or Information</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1610"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Deploy</tspan><tspan x="4" dy="1em">Container</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1006"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Direct Volume</tspan><tspan x="4" dy="1em">Access</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1484"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Domain Policy</tspan><tspan x="4" dy="1em">Modification</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1480"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Execution</tspan><tspan x="4" dy="1em">Guardrails</tspan></text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1211"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Exploitation for</tspan><tspan x="4" dy="1em">Defense Evasion</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1222"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">File and</tspan><tspan x="4" dy="1em">Directory Permissions</tspan><tspan x="4" dy="1em">Modification</tspan></text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1564"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">Hide Artifacts</text>
+</g>
+<g transform="translate(0,282.419744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1574"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Hijack</tspan><tspan x="4" dy="1em">Execution Flow</tspan></text>
+</g>
+<g transform="translate(0,304.1443404255319)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1562"></rect>
+<text x="4" y="13.041197681864237" font-size="8.71559923809524" dy="0em" class="">Impair Defenses</text>
+</g>
+<g transform="translate(0,325.86893617021275)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1070"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Indicator</tspan><tspan x="4" dy="1em">Removal</tspan></text>
+</g>
+<g transform="translate(0,347.5935319148936)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1202"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Indirect Command</tspan><tspan x="4" dy="1em">Execution</tspan></text>
+</g>
+<g transform="translate(0,369.3181276595745)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1036"></rect>
+<text x="4" y="13.585922634245188" font-size="10.89449904761905" dy="0em" class="">Masquerading</text>
+</g>
+<g transform="translate(0,391.04272340425536)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1556"></rect>
+<text x="4" y="9.922043433203068" font-size="6.225428027210886" class=""><tspan x="4" dy="0em">Modify Authentication</tspan><tspan x="4" dy="1em">Process</tspan></text>
+</g>
+<g transform="translate(0,412.7673191489362)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1578"></rect>
+<text x="4" y="9.766407732522797" font-size="6.536699428571429" class=""><tspan x="4" dy="0em">Modify Cloud Compute</tspan><tspan x="4" dy="1em">Infrastructure</tspan></text>
+</g>
+<g transform="translate(0,434.4919148936171)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1112"></rect>
+<text x="4" y="13.041197681864237" font-size="8.71559923809524" dy="0em" class="">Modify Registry</text>
+</g>
+<g transform="translate(0,456.21651063829796)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1601"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Modify System</tspan><tspan x="4" dy="1em">Image</tspan></text>
+</g>
+<g transform="translate(0,477.94110638297883)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1599"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Network Boundary</tspan><tspan x="4" dy="1em">Bridging</tspan></text>
+</g>
+<g transform="translate(0,499.6657021276597)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1027"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Obfuscated Files</tspan><tspan x="4" dy="1em">or Information</tspan></text>
+</g>
+<g transform="translate(0,521.3902978723405)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1647"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Plist File</tspan><tspan x="4" dy="1em">Modification</tspan></text>
+</g>
+<g transform="translate(0,543.1148936170214)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1542"></rect>
+<text x="4" y="13.833524885327439" font-size="11.884908051948054" dy="0em" class="">Pre-OS Boot</text>
+</g>
+<g transform="translate(0,564.8394893617022)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1055"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Process</tspan><tspan x="4" dy="1em">Injection</tspan></text>
+</g>
+<g transform="translate(0,586.5640851063831)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1620"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Reflective Code</tspan><tspan x="4" dy="1em">Loading</tspan></text>
+</g>
+<g transform="translate(0,608.288680851064)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1207"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Rogue Domain</tspan><tspan x="4" dy="1em">Controller</tspan></text>
+</g>
+<g transform="translate(0,630.0132765957449)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1014"></rect>
+<text x="4" y="13.862297872340426" font-size="12" dy="0em" class="">Rootkit</text>
+</g>
+<g transform="translate(0,651.7378723404257)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1553"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Subvert Trust</tspan><tspan x="4" dy="1em">Controls</tspan></text>
+</g>
+<g transform="translate(0,673.4624680851066)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1218"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">System Binary</tspan><tspan x="4" dy="1em">Proxy Execution</tspan></text>
+</g>
+<g transform="translate(0,695.1870638297875)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1216"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">System Script</tspan><tspan x="4" dy="1em">Proxy Execution</tspan></text>
+</g>
+<g transform="translate(0,716.9116595744683)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1221"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Template</tspan><tspan x="4" dy="1em">Injection</tspan></text>
+</g>
+<g transform="translate(0,738.6362553191492)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1205"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Traffic</tspan><tspan x="4" dy="1em">Signaling</tspan></text>
+</g>
+<g transform="translate(0,760.3608510638301)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1127"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">Trusted Developer</tspan><tspan x="4" dy="1em">Utilities Proxy</tspan><tspan x="4" dy="1em">Execution</tspan></text>
+</g>
+<g transform="translate(0,782.0854468085109)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1535"></rect>
+<text x="4" y="9.403257764268828" font-size="7.262999365079366" class=""><tspan x="4" dy="0em">Unused/Unsupported</tspan><tspan x="4" dy="1em">Cloud Regions</tspan></text>
+</g>
+<g transform="translate(0,803.8100425531918)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1550"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">Use Alternate</tspan><tspan x="4" dy="1em">Authentication</tspan><tspan x="4" dy="1em">Material</tspan></text>
+</g>
+<g transform="translate(0,825.5346382978727)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="" fill="white">Valid Accounts</text>
+<g transform="translate(19.63227428571429,21.72459574468085)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.004"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Cloud</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,43.4491914893617)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.001"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Default</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,65.17378723404255)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.002"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Domain</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<g transform="translate(19.63227428571429,86.8983829787234)">
+<rect height="21.72459574468085" width="78.52909714285715" style="fill: rgb(0, 0, 0)" stroke="#6B7279" class="T1078.003"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class="" fill="white"><tspan x="4" dy="0em">Local</tspan><tspan x="4" dy="1em">Accounts</tspan></text>
+</g>
+<path d="M6.135085714285715,21.72459574468085 L12.27017142857143,43.4491914893617 L12.27017142857143,108.62297872340426 L19.63227428571429,108.62297872340426 L19.63227428571429,21.72459574468085 Z" fill="#6B7279" stroke="#6B7279" />
+</g>
+<g transform="translate(0,934.1576170212769)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1497"></rect>
+<text x="4" y="10.063530433821498" font-size="5.942454025974027" class=""><tspan x="4" dy="0em">Virtualization/Sandbox</tspan><tspan x="4" dy="1em">Evasion</tspan></text>
+</g>
+<g transform="translate(0,955.8822127659578)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1600"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Weaken</tspan><tspan x="4" dy="1em">Encryption</tspan></text>
+</g>
+<g transform="translate(0,977.6068085106386)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1220"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">XSL Script</tspan><tspan x="4" dy="1em">Processing</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(764.0064000000001,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="8.68983829787234" dy="0em" class="TacticName" style="text-anchor: middle">Credential Access</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1557"></rect>
+<text x="4" y="12.283319487247258" font-size="5.68408645962733" dy="0em" class="">Adversary-in-the-Middle</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1110"></rect>
+<text x="4" y="13.833524885327439" font-size="11.884908051948054" dy="0em" class="">Brute Force</text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1555"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Credentials from</tspan><tspan x="4" dy="1em">Password Stores</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1212"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">Exploitation for</tspan><tspan x="4" dy="1em">Credential Access</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1187"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Forced</tspan><tspan x="4" dy="1em">Authentication</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1606"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Forge Web</tspan><tspan x="4" dy="1em">Credentials</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1056"></rect>
+<text x="4" y="13.37641303717559" font-size="10.05646065934066" dy="0em" class="">Input Capture</text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1556"></rect>
+<text x="4" y="9.922043433203068" font-size="6.225428027210886" class=""><tspan x="4" dy="0em">Modify Authentication</tspan><tspan x="4" dy="1em">Process</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1111"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">Multi-Factor</tspan><tspan x="4" dy="1em">Authentication</tspan><tspan x="4" dy="1em">Interception</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1621"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">Multi-Factor</tspan><tspan x="4" dy="1em">Authentication Request</tspan><tspan x="4" dy="1em">Generation</tspan></text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1040"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Network</tspan><tspan x="4" dy="1em">Sniffing</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1003"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">OS Credential</tspan><tspan x="4" dy="1em">Dumping</tspan></text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1528"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">Steal Application</tspan><tspan x="4" dy="1em">Access Token</tspan></text>
+</g>
+<g transform="translate(0,282.419744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1539"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Steal Web</tspan><tspan x="4" dy="1em">Session Cookie</tspan></text>
+</g>
+<g transform="translate(0,304.1443404255319)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1649"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">Steal or</tspan><tspan x="4" dy="1em">Forge Authentication</tspan><tspan x="4" dy="1em">Certificates</tspan></text>
+</g>
+<g transform="translate(0,325.86893617021275)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1558"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Steal or Forge</tspan><tspan x="4" dy="1em">Kerberos Tickets</tspan></text>
+</g>
+<g transform="translate(0,347.5935319148936)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1552"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Unsecured</tspan><tspan x="4" dy="1em">Credentials</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(873.1501714285715,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="14.525998730158731" dy="0em" class="TacticName" style="text-anchor: middle">Discovery</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1087"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Account</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1010"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Application</tspan><tspan x="4" dy="1em">Window Discovery</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1217"></rect>
+<text x="4" y="9.594389326507759" font-size="6.880736240601504" class=""><tspan x="4" dy="0em">Browser Information</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1580"></rect>
+<text x="4" y="9.766407732522797" font-size="6.536699428571429" class=""><tspan x="4" dy="0em">Cloud Infrastructure</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1538"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Cloud Service</tspan><tspan x="4" dy="1em">Dashboard</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1526"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Cloud Service</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1619"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Cloud Storage</tspan><tspan x="4" dy="1em">Object Discovery</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1613"></rect>
+<text x="4" y="9.403257764268828" font-size="7.262999365079366" class=""><tspan x="4" dy="0em">Container and</tspan><tspan x="4" dy="1em">Resource Discovery</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1622"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Debugger</tspan><tspan x="4" dy="1em">Evasion</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1652"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Device Driver</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1482"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Domain Trust</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1083"></rect>
+<text x="4" y="9.403257764268828" font-size="7.262999365079366" class=""><tspan x="4" dy="0em">File and Directory</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1615"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Group Policy</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,282.419744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1046"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Network Service</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,304.1443404255319)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1135"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Network Share</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,325.86893617021275)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1040"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Network</tspan><tspan x="4" dy="1em">Sniffing</tspan></text>
+</g>
+<g transform="translate(0,347.5935319148936)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1201"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Password Policy</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,369.3181276595745)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1120"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Peripheral</tspan><tspan x="4" dy="1em">Device Discovery</tspan></text>
+</g>
+<g transform="translate(0,391.04272340425536)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1069"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Permission</tspan><tspan x="4" dy="1em">Groups Discovery</tspan></text>
+</g>
+<g transform="translate(0,412.7673191489362)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1057"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Process</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,434.4919148936171)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1012"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">Query Registry</text>
+</g>
+<g transform="translate(0,456.21651063829796)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1018"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Remote System</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,477.94110638297883)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1518"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Software</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,499.6657021276597)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1082"></rect>
+<text x="4" y="9.403257764268828" font-size="7.262999365079366" class=""><tspan x="4" dy="0em">System Information</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,521.3902978723405)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1614"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">System Location</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,543.1148936170214)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1016"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">System</tspan><tspan x="4" dy="1em">Network Configuration</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,564.8394893617022)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1049"></rect>
+<text x="4" y="9.922043433203068" font-size="6.225428027210886" class=""><tspan x="4" dy="0em">System Network</tspan><tspan x="4" dy="1em">Connections Discovery</tspan></text>
+</g>
+<g transform="translate(0,586.5640851063831)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1033"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">System Owner/User</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,608.288680851064)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1007"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">System Service</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,630.0132765957449)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1124"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">System Time</tspan><tspan x="4" dy="1em">Discovery</tspan></text>
+</g>
+<g transform="translate(0,651.7378723404257)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1497"></rect>
+<text x="4" y="10.063530433821498" font-size="5.942454025974027" class=""><tspan x="4" dy="0em">Virtualization/Sandbox</tspan><tspan x="4" dy="1em">Evasion</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(982.293942857143,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="8.68983829787234" dy="0em" class="TacticName" style="text-anchor: middle">Lateral Movement</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1210"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Exploitation of</tspan><tspan x="4" dy="1em">Remote Services</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1534"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Internal</tspan><tspan x="4" dy="1em">Spearphishing</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1570"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Lateral Tool</tspan><tspan x="4" dy="1em">Transfer</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1563"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">Remote Service</tspan><tspan x="4" dy="1em">Session Hijacking</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1021"></rect>
+<text x="4" y="13.041197681864237" font-size="8.71559923809524" dy="0em" class="">Remote Services</text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1091"></rect>
+<text x="4" y="9.594389326507759" font-size="6.880736240601504" class=""><tspan x="4" dy="0em">Replication Through</tspan><tspan x="4" dy="1em">Removable Media</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1072"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Software</tspan><tspan x="4" dy="1em">Deployment Tools</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1080"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Taint Shared</tspan><tspan x="4" dy="1em">Content</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1550"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">Use Alternate</tspan><tspan x="4" dy="1em">Authentication</tspan><tspan x="4" dy="1em">Material</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(1091.4377142857145,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="13.073398857142857" dy="0em" class="TacticName" style="text-anchor: middle">Collection</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1557"></rect>
+<text x="4" y="12.283319487247258" font-size="5.68408645962733" dy="0em" class="">Adversary-in-the-Middle</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1560"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Archive</tspan><tspan x="4" dy="1em">Collected Data</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1123"></rect>
+<text x="4" y="13.37641303717559" font-size="10.05646065934066" dy="0em" class="">Audio Capture</text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1119"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Automated</tspan><tspan x="4" dy="1em">Collection</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1185"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Browser Session</tspan><tspan x="4" dy="1em">Hijacking</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1115"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">Clipboard Data</text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1074"></rect>
+<text x="4" y="13.833524885327439" font-size="11.884908051948054" dy="0em" class="">Data Staged</text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1530"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Data from Cloud</tspan><tspan x="4" dy="1em">Storage</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1602"></rect>
+<text x="4" y="7.241531914893617" font-size="5.793225531914894" class=""><tspan x="4" dy="0em">Data</tspan><tspan x="4" dy="1em">from Configuration</tspan><tspan x="4" dy="1em">Repository</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1213"></rect>
+<text x="4" y="9.922043433203068" font-size="6.225428027210886" class=""><tspan x="4" dy="0em">Data from Information</tspan><tspan x="4" dy="1em">Repositories</tspan></text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1005"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Data from Local</tspan><tspan x="4" dy="1em">System</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1039"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">Data from Network</tspan><tspan x="4" dy="1em">Shared Drive</tspan></text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1025"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Data from</tspan><tspan x="4" dy="1em">Removable Media</tspan></text>
+</g>
+<g transform="translate(0,282.419744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1114"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Email</tspan><tspan x="4" dy="1em">Collection</tspan></text>
+</g>
+<g transform="translate(0,304.1443404255319)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1056"></rect>
+<text x="4" y="13.37641303717559" font-size="10.05646065934066" dy="0em" class="">Input Capture</text>
+</g>
+<g transform="translate(0,325.86893617021275)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1113"></rect>
+<text x="4" y="13.196833382544508" font-size="9.338142040816328" dy="0em" class="">Screen Capture</text>
+</g>
+<g transform="translate(0,347.5935319148936)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1125"></rect>
+<text x="4" y="13.37641303717559" font-size="10.05646065934066" dy="0em" class="">Video Capture</text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(1200.581485714286,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="8.68983829787234" dy="0em" class="TacticName" style="text-anchor: middle">Command and Control</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1071"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Application</tspan><tspan x="4" dy="1em">Layer Protocol</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1092"></rect>
+<text x="4" y="9.922043433203068" font-size="6.225428027210886" class=""><tspan x="4" dy="0em">Communication Through</tspan><tspan x="4" dy="1em">Removable Media</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1132"></rect>
+<text x="4" y="13.37641303717559" font-size="10.05646065934066" dy="0em" class="">Data Encoding</text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1001"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Data</tspan><tspan x="4" dy="1em">Obfuscation</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1568"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Dynamic</tspan><tspan x="4" dy="1em">Resolution</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1573"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Encrypted</tspan><tspan x="4" dy="1em">Channel</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1008"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Fallback</tspan><tspan x="4" dy="1em">Channels</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1105"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Ingress Tool</tspan><tspan x="4" dy="1em">Transfer</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1104"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Multi-Stage</tspan><tspan x="4" dy="1em">Channels</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1095"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Non-Application</tspan><tspan x="4" dy="1em">Layer Protocol</tspan></text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1571"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Non-Standard</tspan><tspan x="4" dy="1em">Port</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1572"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Protocol</tspan><tspan x="4" dy="1em">Tunneling</tspan></text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1090"></rect>
+<text x="4" y="13.862297872340426" font-size="12" dy="0em" class="">Proxy</text>
+</g>
+<g transform="translate(0,282.419744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1219"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Remote Access</tspan><tspan x="4" dy="1em">Software</tspan></text>
+</g>
+<g transform="translate(0,304.1443404255319)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1205"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Traffic</tspan><tspan x="4" dy="1em">Signaling</tspan></text>
+</g>
+<g transform="translate(0,325.86893617021275)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1102"></rect>
+<text x="4" y="13.833524885327439" font-size="11.884908051948054" dy="0em" class="">Web Service</text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(1309.7252571428573,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="10.89449904761905" dy="0em" class="TacticName" style="text-anchor: middle">Exfiltration</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1020"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Automated</tspan><tspan x="4" dy="1em">Exfiltration</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1030"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Data Transfer</tspan><tspan x="4" dy="1em">Size Limits</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1048"></rect>
+<text x="4" y="9.766407732522797" font-size="6.536699428571429" class=""><tspan x="4" dy="0em">Exfiltration Over</tspan><tspan x="4" dy="1em">Alternative Protocol</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1041"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Exfiltration</tspan><tspan x="4" dy="1em">Over C2 Channel</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1011"></rect>
+<text x="4" y="9.766407732522797" font-size="6.536699428571429" class=""><tspan x="4" dy="0em">Exfiltration Over</tspan><tspan x="4" dy="1em">Other Network Medium</tspan></text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1052"></rect>
+<text x="4" y="9.18964013588414" font-size="7.690234621848741" class=""><tspan x="4" dy="0em">Exfiltration Over</tspan><tspan x="4" dy="1em">Physical Medium</tspan></text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1567"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Exfiltration</tspan><tspan x="4" dy="1em">Over Web Service</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1029"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Scheduled</tspan><tspan x="4" dy="1em">Transfer</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1537"></rect>
+<text x="4" y="8.949320303951367" font-size="8.170874285714287" class=""><tspan x="4" dy="0em">Transfer Data</tspan><tspan x="4" dy="1em">to Cloud Account</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(1418.8690285714288,24.96)">
+<g transform="translate(49.08068571428572,10.862297872340426)">
+<text x="0" y="0" font-size="17.37967659574468" dy="0em" class="TacticName" style="text-anchor: middle">Impact</text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<g transform="translate(0,2)">
+<g transform="translate(0,0)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1531"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Account Access</tspan><tspan x="4" dy="1em">Removal</tspan></text>
+</g>
+<g transform="translate(0,21.72459574468085)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1485"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Data</tspan><tspan x="4" dy="1em">Destruction</tspan></text>
+</g>
+<g transform="translate(0,43.4491914893617)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1486"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Data Encrypted</tspan><tspan x="4" dy="1em">for Impact</tspan></text>
+</g>
+<g transform="translate(0,65.17378723404255)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1565"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Data</tspan><tspan x="4" dy="1em">Manipulation</tspan></text>
+</g>
+<g transform="translate(0,86.8983829787234)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1491"></rect>
+<text x="4" y="13.862297872340426" font-size="12" dy="0em" class="">Defacement</text>
+</g>
+<g transform="translate(0,108.62297872340426)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1561"></rect>
+<text x="4" y="13.862297872340426" font-size="12" dy="0em" class="">Disk Wipe</text>
+</g>
+<g transform="translate(0,130.3475744680851)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1499"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Endpoint Denial</tspan><tspan x="4" dy="1em">of Service</tspan></text>
+</g>
+<g transform="translate(0,152.07217021276594)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1495"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Firmware</tspan><tspan x="4" dy="1em">Corruption</tspan></text>
+</g>
+<g transform="translate(0,173.79676595744678)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1490"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Inhibit System</tspan><tspan x="4" dy="1em">Recovery</tspan></text>
+</g>
+<g transform="translate(0,195.52136170212762)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1498"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Network Denial</tspan><tspan x="4" dy="1em">of Service</tspan></text>
+</g>
+<g transform="translate(0,217.24595744680846)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1496"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">Resource</tspan><tspan x="4" dy="1em">Hijacking</tspan></text>
+</g>
+<g transform="translate(0,238.9705531914893)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1489"></rect>
+<text x="4" y="13.585922634245188" font-size="10.89449904761905" dy="0em" class="">Service Stop</text>
+</g>
+<g transform="translate(0,260.69514893617014)">
+<rect height="21.72459574468085" width="98.16137142857144" style="fill: rgb(255, 255, 255)" stroke="#6B7279" class="T1529"></rect>
+<text x="4" y="8.68983829787234" font-size="8.68983829787234" class=""><tspan x="4" dy="0em">System</tspan><tspan x="4" dy="1em">Shutdown/Reboot</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
